@@ -5,7 +5,7 @@
 + untuk memudahkan create node secara otomatis
 + Bisa Di Pasang Di sc bot anda
 
-### 🪂 lingkungan
+### 🪂 Command
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/AlfiX2Smasa/node/main/install.sh)
@@ -13,6 +13,6 @@ bash <(curl -s https://raw.githubusercontent.com/AlfiX2Smasa/node/main/install.s
 
 ### 😻 Penggunaan
 
-1. `git clone ke file install.sh`
+1. `copy command`
 2. `beli token di @AlfiOfficialSmasa`
 3. `Install`
